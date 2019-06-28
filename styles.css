@@ -1,0 +1,68 @@
+#Mineral1 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: white;
+
+}
+#Mineral2 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #F4EEED;
+
+}
+#Mineral3 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #D3D1D1;
+
+}
+#Mineral4 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #A7A6A6;
+
+}
+#Mineral5 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #979696;
+
+}
+#Mineral6 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #868686;
+
+}
+#Mineral7 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #737272;
+
+}
+#Mineral8 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #5F5E5E;
+
+}
+#Mineral9 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #494848;
+
+}
+#Mineral10 {
+	 font-family: Georgia;;
+    text-align:center;
+	background: #303030;
+
+}
+.Minerales {
+	 font-family: monospace;
+    text-align:center;
+	background: #ECE19E;
+}
+.imagen {
+	width: 100px
+}
